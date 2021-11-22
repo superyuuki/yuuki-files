@@ -25,7 +25,7 @@ yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.r
 
 dnf install aspnetcore-runtime-5.0 -y
 dnf install libX11 -y
-dnf install unzip-5.0 -y
+dnf install unzip -y
 dnf install glibc -y
 dnf install curl -y
 dnf install libgdiplus -y
